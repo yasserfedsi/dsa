@@ -1,3 +1,5 @@
+# This code is from DataCamp DSA Course
+
 class Node:
     def __init__(self, data):
         self.data = data
